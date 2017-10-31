@@ -7,18 +7,34 @@ A Quick Shortcut for All the Important Repositories and Subdirectories
 
 ## By Technology: 
 - Language
-|---|
-|Java|
 
+|             |
+| ----------- |
+| Java        |
+| Scala       |
+| Swift       |
+| TypeScript  |
+| JavaScript  |
+| Python      |
+| R           |
+| Groovy      |
+| Ruby        |
+| C#          |
+| ObjectiveC  |
+| C           |
+
+## Application
 - iOS
 - Android
 - Browser
 - JavaEE
 - Spring
 - NodeJS
-- Hadoop - Data Processing
-- Databases
-- Tools - E
+
+## Data and Processing
+- Data Processing - Big Data Processing
+- Databases - Persistence Technologies
+- Tools - Development Tools
 
 
 
