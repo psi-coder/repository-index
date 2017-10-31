@@ -34,5 +34,9 @@ A Quick Shortcut for All the Important Repositories and Subdirectories
 - Databases
 - Tools
 
+|             |
+| ----------- |
+| AWS         |
+| GCP         |
 
 
