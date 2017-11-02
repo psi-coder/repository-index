@@ -11,7 +11,7 @@ A Quick Shortcut for All the Important Repositories and Subdirectories
 
 |             |
 | ----------- |
-| Java        |
+| [Java](../../../notes-language/tree/master/Java)        |
 | Scala       |
 | Swift       |
 | TypeScript  |
