@@ -2,9 +2,9 @@
 A Quick Shortcut for All the Important Repositories and Subdirectories 
 
 ## Side Projects
-- KWL2
+- [KWL2](../../../project-kwl2)
 - [Miiingle2](../../../project-mingle2)
-- TradeButler
+- [TradeButler](../../../project-tradebutler)
 
 ## By Technology: 
 - Language
