@@ -3,7 +3,7 @@ A Quick Shortcut for All the Important Repositories and Subdirectories
 
 ## Side Projects
 - KWL2
-- [Miiingle2](../../project-mingle2)
+- [Miiingle2](../../../project-mingle2)
 - TradeButler
 
 ## By Technology: 
