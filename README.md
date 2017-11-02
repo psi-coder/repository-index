@@ -9,20 +9,9 @@ A Quick Shortcut for All the Important Repositories and Subdirectories
 ## By Technology: 
 - Language
 
-|             |
-| ----------- |
-| [Java](../../../notes-language/tree/master/Java)        |
-| Scala       |
-| Swift       |
-| TypeScript  |
-| JavaScript  |
-| Python      |
-| R           |
-| Groovy      |
-| Ruby        |
-| C#          |
-| ObjectiveC  |
-| C           |
+| [Java](../../../notes-language/tree/master/Java)        | Scala       | Swift       | TypeScript  | JavaScript  | Python      | R           |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Groovy      | Ruby        | C#          | ObjectiveC  | C           | | |
 
 - iOS
 - Android
