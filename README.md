@@ -1,31 +1,6 @@
-# PsiCoder: Repository Index
+# Lyndon's Repo
 A Quick Shortcut for All the Important Repositories and Subdirectories 
 
-## Side Projects
-- [KWL2](../../../project-kwl2)
-- [Miiingle2](../../../project-mingle2)
-- [TradeButler](../../../project-tradebutler)
-
-## By Technology: 
-- Language
-
-| [Java](../../../notes-language/tree/master/Java)        | [Scala](../../../notes-language/tree/master/Scala)       | [Swift](../../../notes-language/tree/master/Swift)       | [TypeScript](../../../notes-language/tree/master/TypeScript)  | JavaScript  | Python      | R           |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Groovy      | Ruby        | C#          | ObjectiveC  | C           | | |
-
-- iOS
-- Android
-- Browser
-- JavaEE
-- Spring
-- NodeJS
-- Data Processing
-- Databases
-- Tools
-
-|             |
-| ----------- |
-| AWS         |
-| GCP         |
-
-
+## Starup Remakes
+- [Kwler.NET](https://github.com/kwler/kwler): A data analytics system for the music industry
+- [Miiingle](https://github.com/miiingle/miiingle): A location-based social media 
